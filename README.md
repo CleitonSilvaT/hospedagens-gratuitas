@@ -16,3 +16,5 @@
 | Stackblitz | | https://stackblitz.com/ |
 | Surge | | https://surge.sh/ |
 | Vercel | | https://vercel.com/ |
+| Supabase | | https://supabase.com/ |
+| Firebase | | https://firebase.google.com/?hl=pt-br |
