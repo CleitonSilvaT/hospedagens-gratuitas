@@ -2,7 +2,7 @@
 
 | Plataform  | Tecnologies | Link |
 | ------------- | ------------- | ------------- |
-| Backendless | | https://backendless.com/ |
+| Backendless | Static and dynamic (Node.JS) content | https://backendless.com/ |
 | Codepen | | https://codepen.io/ |
 | Codesandbox | | https://codesandbox.io/ |
 | Fly  | Go, Crystal, RedwoodJS, Python, Ruby, Static Website, NextJS, Node, Dockerfile, NuxtJS, Remix, Deno | https://fly.io/ |
