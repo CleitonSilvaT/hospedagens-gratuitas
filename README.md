@@ -2,7 +2,7 @@
 
 | Plataform  | Tecnologies | Link |
 | ------------- | ------------- | ------------- |
-| Backendless | | https://backendless.com/ |
+| Backendless | Static and dynamic (Node.JS) content | https://backendless.com/ |
 | Codepen | | https://codepen.io/ |
 | Codesandbox | JavaScript (including TypeScript), frontend and full-stack, and officially support (with built-in LSP/IntelliSense) Rust, Go, Python, PHP, Ruby on Rails, Elixir, Node and Deno (more languages coming soon) | https://codesandbox.io/ |
 | Fly  | Go, Crystal, RedwoodJS, Python, Ruby, Static Website, NextJS, Node, Dockerfile, NuxtJS, Remix, Deno | https://fly.io/ |
